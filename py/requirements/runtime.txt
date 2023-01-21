@@ -1,0 +1,4 @@
+more-itertools==9.0.0
+parse==1.19.0
+numpy==1.24.1
+networkx==3.0
